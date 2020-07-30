@@ -32,4 +32,4 @@
 *.app
 
 # exclude binary from Debug
-/Debug
+/Debug/ManagedBuildSystem

@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# exclude binary from Debug
+/Debug

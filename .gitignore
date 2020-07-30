@@ -33,3 +33,4 @@
 
 # exclude binary from Debug
 /Debug/ManagedBuildSystem
+/Debug
